@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": true
+      "isInCart": false
     },
     {
       "id": 3,
