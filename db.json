@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 3,
@@ -35,6 +35,36 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Tea scones",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Cheesecake",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Blueberries",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Cheese",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 11
     }
   ]
 }
